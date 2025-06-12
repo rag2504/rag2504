@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  **🎯 Frontend Developer** passionate about creating **fast, accessible, and beautiful** web experiences
+  **🎯 FullStack Developer** passionate about creating **fast, accessible, and beautiful** web experiences
   
   📍 **Based in Gujarat, India** 🇮🇳 | 💻 **React Enthusiast** | ⚡ **Performance Focused**
   
