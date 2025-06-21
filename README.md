@@ -131,7 +131,8 @@ I'm always excited to work on projects that make a real impact! I'm particularly
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rag2504&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rag2504&theme=tokyonight)](https://git.io/streak-stats)
+
   
 </div>
 
